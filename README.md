@@ -1,2 +1,2 @@
 # adc-guide
-A guide on how to play certain ADCs though it's pretty troll. 
+A guide on how to play certain ADCs though it's pretty troll. It's just to help me set me skills with HTML that I have learnt through the odin project. Mainly learning how to create a website, add titles, add different fonts, add links, and add photos to the website.
