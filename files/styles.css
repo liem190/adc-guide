@@ -3,15 +3,23 @@
     color:chocolate;
 }
 
+.caitlyn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #special {
     color:teal;
 }
 
 * {
+    background-color:beige;
+}
+
+.centering {
     text-align: center
 }
 
-div {
+.caitlyn {
     background-color:beige;
 }
 
